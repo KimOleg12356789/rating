@@ -1104,11 +1104,13 @@
 		line-height: 18px;
 	}
 
-	
+	ul.tabs {
+	    width: 280px;
+	}
 	
 	.ul.tabs li {
 		padding: 12px 0;
-		width: 135px;
+		width: 140px;
 	}
 
 	.tab-title {
