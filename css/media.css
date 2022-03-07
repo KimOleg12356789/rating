@@ -1102,16 +1102,15 @@
 	ul.tabs li {
 		font-size: 13px;
 		line-height: 18px;
+		padding: 12px 0;
+		width: 140px;
 	}
 
 	ul.tabs {
 	    width: 280px;
 	}
 	
-	.ul.tabs li {
-		padding: 12px 0;
-		width: 140px;
-	}
+	
 
 	.tab-title {
 		font-size: 16px;
